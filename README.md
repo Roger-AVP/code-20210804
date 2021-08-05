@@ -2,10 +2,10 @@
 
 npm install \
 npm test \
-npm start \
+npm start 
 
 
 ## Tools
 
-Jest: tool for unit tests
+Jest: tool for unit tests \
 Typescript: language selected by the author for development
